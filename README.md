@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://acmcalvo.github.io/run-buddy-acm/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Alvaro Calvo
 
 ### ©️2019 Run Buddy, Inc 
